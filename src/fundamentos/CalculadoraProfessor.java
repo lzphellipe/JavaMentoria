@@ -1,3 +1,5 @@
+package fundamentos;
+
 public class CalculadoraProfessor {
 
     public static void main(String[] args) {

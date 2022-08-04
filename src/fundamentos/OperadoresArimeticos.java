@@ -1,3 +1,5 @@
+package fundamentos;
+
 public class OperadoresArimeticos {
 
     public static void main(String[] args) {

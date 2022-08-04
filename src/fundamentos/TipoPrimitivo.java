@@ -6,6 +6,8 @@ public class TipoPrimitivo {
         boolean alunoMatriculado = true;
         boolean clienteBloqueado = false;
 
+
+
         char turmaAluno1 = 'A';
         char tipoCliente = '2';
         char simbolo = '@';
