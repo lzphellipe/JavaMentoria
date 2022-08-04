@@ -1,3 +1,5 @@
+package fundamentos;
+
 public class Operador2 {
 
     public static void main(String[] args) {

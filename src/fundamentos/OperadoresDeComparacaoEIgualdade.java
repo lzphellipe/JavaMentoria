@@ -1,3 +1,5 @@
+package fundamentos;
+
 public class OperadoresDeComparacaoEIgualdade {
 
     public static void main(String[] args) {

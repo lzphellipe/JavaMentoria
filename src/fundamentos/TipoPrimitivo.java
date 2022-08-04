@@ -1,3 +1,5 @@
+package fundamentos;
+
 public class TipoPrimitivo {
 
     public static void main(String[] args) {

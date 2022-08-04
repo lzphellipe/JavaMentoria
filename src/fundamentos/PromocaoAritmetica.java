@@ -1,3 +1,5 @@
+package fundamentos;
+
 public class PromocaoAritmetica {
 
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package fundamentos;
+
 public class IncrementoDecremento {
 
     public static void main(String[] args) {
