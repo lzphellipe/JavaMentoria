@@ -7,6 +7,8 @@ public class IncrementoDecremento {
 
         int novaIdade = --idade;
 
+        // int novaIdade = idade++;
+
         System.out.println("Idade: " + idade);
         System.out.println("Nova idade: " + novaIdade);
 
